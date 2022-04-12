@@ -1,0 +1,474 @@
+Versão do QGIS: 3.22.5-Bia?owie?a
+Código de revisão do QGIS: c27231782f
+Versão do Qt: 5.15.2
+Versão do Python: 3.9.5
+Versão do GDAL: 3.4.2
+Versão do GEOS: 3.10.2-CAPI-1.16.0
+Versão do PROJ: Rel. 9.0.0, March 1st, 2022
+Versão PDAL: 2.3.0 (git-version: 1c17a7)
+SLYR (community edition) versão: 4.0.0
+Algoritmo iniciado as: 2022-04-05T15:26:12
+Algoritmo 'Convert ESRI style to QGIS style XML' iniciando
+Entrada de parâmetros:
+{ 'INPUT' : 'C:\\Users\\edu_g\\Downloads\\Bibl_Geologia_SGB_2022_final.style\\Bibl_Geologia_SGB_2022_final.style\\Bibl_Geologia_SGB_2022.style', 'OUTPUT' : 'C:\\Users\\edu_g\\Downloads\\Bibl_Geologia_SGB_2022_final.style\\Bibl_Geologia_SGB_2022_final.style\\Bibl_Geologia_SGB_2022.xml' }
+
+Importing Fill symbols from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 2 symbols of type "Fill symbols"
+
+
+1/2: Feições Magnetométricas (com eventual estimativa de profundidade)
+2/2: Feições Gravimétricas (com eventual estimativa de profundidade)
+Importing Line symbols from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 81 symbols of type "Line symbols"
+
+
+1/81: Anticlinal ou antiforme invertido
+2/81: Anticlinal ou antiforme invertido com caimento indicado d
+3/81: Anticlinal ou antiforme invertido com caimento indicado e
+4/81: Anticlinal ou antiforme normal
+5/81: Anticlinal ou antiforme normal com caimento indicado e
+6/81: Anticlinório
+7/81: Arco de bacia
+8/81: Bacia
+9/81: Banda de cisalhamento
+10/81: Banda de cisalhamento compressional
+11/81: Banda de cisalhamento extensional
+12/81: Banda de cisalhamento transcorrente dextral
+13/81: Banda de cisalhamento transcorrente sinistral
+14/81: Braquianticlinal invertido
+15/81: Braquianticlinal ou braquiantiforme
+16/81: Braquissinclinal ou braquissinforme
+17/81: Braquissinclinal invertido
+18/81: Calha de bacia
+19/81: Contato
+20/81: Contato aproximado
+21/81: Contato encoberto
+22/81: Contato transicional
+23/81: Dique
+24/81: Dique com indicação de mergulho
+25/81: Dique vertical
+26/81: Disconformidade
+27/81: Estrutura de impacto
+28/81: Falha contracional
+29/81: Falha contracional dextral
+30/81: Magnetométrica
+31/81: Falha contracional encoberta
+32/81: Falha contracional sinistral
+33/81: Falha encoberta
+34/81: Falha extensional
+35/81: Falha extensional aproximada
+36/81: Falha extensional dextral
+37/81: Falha extensional encoberta
+38/81: Falha extensional sinistral
+39/81: Falha indiscriminada
+40/81: Falha ou fratura aproximada
+41/81: Falha transcorrente dextral
+42/81: Falha transcorrente encoberta dextral
+43/81: Falha transcorrente encoberta sinistral
+44/81: Falha transcorrente sinistral
+45/81: Falha transicional
+46/81: Flexura antiformal
+47/81: Flexura sinformal
+48/81: Fratura
+49/81: Isógrada
+50/81: Lineamentos estruturais
+51/81: Sinclinal normal
+52/81: Sinclinal ou sinforme invertido
+53/81: Sinclinal ou sinforme invertido com caimento indicado d
+54/81: Sinclinal ou sinforme invertido com caimento indicado e
+55/81: Sinclinal ou sinforme normal com caimento indicado d
+56/81: Sinclinal ou sinforme normal com caimento indicado e
+57/81: Sinclinório
+58/81: Zona de cisalhamento compressional
+59/81: Gravimétrica
+60/81: Dique magnético (com eventual estimativa de profundidade em metros)
+61/81: Zona de cisalhamento compressional aproximada
+62/81: Zona de cisalhamento compressional dextral
+63/81: Zona de cisalhamento compressional encoberta
+64/81: Zona de cisalhamento compressional sinistral
+65/81: Zona de cisalhamento extensional aproximada
+66/81: Zona de cisalhamento extensional encoberta
+67/81: Zona de cisalhamento indiscriminada
+68/81: Zona de cisalhamento transcorrente dextral
+69/81: Zona de cisalhamento transcorrente encoberta dextral
+70/81: Zona de cisalhamento transcorrente encoberta sinistral
+71/81: Zona de cisalhamento transcorrente sinistral
+72/81: Zona de cisalhamento transtracional
+73/81: Zona de cisalhamento transtracional aproximada
+74/81: Zona de cisalhamento transtracional dextral
+75/81: Zona de cisalhamento transtracional sinistral
+76/81: Zona de falha
+77/81: Zona milonítica
+78/81: Lineamento magnetométrico ou gravimétrico
+79/81: Domo
+80/81: Zona de brecha
+81/81: Anticlinal ou antiforme normal com caimento indicado d
+Importing Marker symbols from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 317 symbols of type "Marker symbols"
+
+
+1/317: Metamorfismo (U-Pb SHRIMP - zircão)
+2/317: Pb-Pb zircão
+3/317: Pb-Pb zircão / U-TH-Pb monazita
+4/317: Rb-Sr rocha total
+5/317: Sm-Nd (TDM)
+6/317: Sm-Nd (TDM) / Ar-Ar anfibólio
+7/317: Sm-Nd (TDM) / Ar-Ar biotita
+8/317: Sm-Nd (TMD) / U-Th-Pb monazita
+9/317: U-Pb zircão / Sm-Nd (TDM)
+10/317: U-Th-Pb monazita
+11/317: Zircão detritico (LA-ICP-MS)
+12/317: Amonoides
+13/317: Anfíbios
+14/317: Artropoda
+15/317: Bimodalidade de grãos
+16/317: Olho de pássaro (birdseye)
+17/317: Braquiópodes
+18/317: Caliche
+19/317: Cnidários
+20/317: Acamadamento
+21/317: Acamadamento horizontal
+22/317: Acamadamento ígneo
+23/317: Acamadamento ígneo vertical
+24/317: Acamadamento invertido
+25/317: Acamadamento vertical
+26/317: Acamadamento vulcanoclástico
+27/317: Acumulação de cristais
+28/317: Bandamento gnáissco
+29/317: Bandamento gnáissico horizontal
+30/317: Bandamento milonítico
+31/317: Bandamento milonítico horizontal
+32/317: Bandamento milonítico vertical
+33/317: Brecha de falha
+34/317: Brecha hidrotermal
+35/317: Cavalgamento tipo duplex
+36/317: Cavalgamento tipo pilha antiformal
+37/317: Cavalgamentos divergentes tipo pop up
+38/317: Cavalgamentos tipo zona triangular
+39/317: Clivagem ardosiana
+40/317: Clivagem ardosiana horizontal
+41/317: Clivagem ardosiana vertical
+42/317: Clivagem de crenulação
+43/317: Clivagem de crenulação horizontal
+44/317: Clivagem de crenulação vertical
+45/317: Clivagem de fratura
+46/317: Clivagem de fratura vertical
+47/317: Clivagem de solução por pressão
+48/317: Clivagem horizontal
+49/317: Clivagem vertical
+50/317: Corpos intrusivos fora de escala: kimberlitos, carbonatitos
+51/317: Dobra aberta (120o a 70o)
+52/317: Dobra assimétrica
+53/317: Dobra de arrasto
+54/317: Dobra desarmônica
+55/317: Dobra em leque
+56/317: Dobra fechada (70o a 30o)
+57/317: Dobra horizontal
+58/317: Dobra inclinada
+59/317: Dobra intrafolial
+60/317: Dobra isoclinal (0o)
+61/317: Dobra paralela
+62/317: Dobra parasítica tipo M
+63/317: Dobra parasítica tipo S
+64/317: Dobra parasítica tipo Z
+65/317: Dobra ptigmática
+66/317: Dobra reclinada
+67/317: Dobra recumbente
+68/317: Dobra sem raiz
+69/317: Dobra simétrica
+70/317: Dobra suave (ângulo interlimbos: 180o a 120o)
+71/317: Dobra tipo bainha
+72/317: Depósito mineral
+73/317: Dobra tipo caixa
+74/317: Dobra tipo chevron
+75/317: Dobra tipo kink
+76/317: Dobra vertical
+77/317: Eixo de boudins
+78/317: Eixo de lápis
+79/317: Eixo de mullions
+80/317: Eixo de rods
+81/317: Estrias de deslizamento flexural em dobras
+82/317: Estrias de falha (slickenlines)
+83/317: Estrias glaciais
+84/317: Flor negativa
+85/317: Flor positiva
+86/317: Foliação
+87/317: Foliação de borda de intrusão (ortognaissificação)
+88/317: Foliação de transposição
+89/317: Foliação de transposição horizontal
+90/317: Foliação de transposição vertical
+91/317: Foliação milonítica
+92/317: Foliação milonítica horizontal
+93/317: Foliação milonítica vertical
+94/317: Foliação tipo C
+95/317: Foliação tipo C'
+96/317: Foliação tipo S
+97/317: Foliação vertical
+98/317: Fratura
+Corrected to unique name of Fratura_1
+99/317: Fratura de cisalhamento P
+100/317: Garimpo paralisado
+101/317: Fratura de cisalhamento R'(anti-Riedel)
+102/317: Fratura de cisalhamento X
+103/317: Fratura de cisalhamento Y
+104/317: Fratura horizontal
+105/317: Fratura vertical
+106/317: Gouge de falha
+107/317: Junta
+108/317: Junta com superfície plumosa
+109/317: Junta de cisalhamento
+110/317: Junta estilolítica
+111/317: Junta extensional
+112/317: Junta extensional horizontal
+113/317: Junta extensional vertical
+114/317: Junta híbrida
+115/317: Junta horizontal
+116/317: Junta vertical
+117/317: Juntas colunares
+118/317: Juntas de resfriamento
+119/317: Lineação B (eixo de dobra) horizontal
+120/317: Lineação B (eixo de dobra) vertical
+121/317: Lineação de estiramento
+122/317: Lineação de estiramento horizontal
+123/317: Lineação de estiramento horizontal com movimento sinistral indicado
+124/317: Lineação de estiramento vertical
+125/317: Mina em atividade
+126/317: Mina paralisada
+127/317: Lineação de fluxo magmático (minerais ou enclaves)
+128/317: Lineação de interseção entre foliações ou clivagens
+129/317: Lineação de minerais alongados em veios
+130/317: Lineação mineral
+131/317: Lineação mineral horizontal
+132/317: Lineação mineral vertical
+133/317: Ocorrência mineral
+134/317: Peixes de mica (mica fish)
+135/317: Pillow lava
+136/317: Plano (superfície) axial de dobra
+137/317: Porfiroblastos/porfiroclastos assimétricos tipo delta
+138/317: Porfiroblastos/porfiroclastos assimétricos tipo sigma
+139/317: Porfiroclastos simétricos
+140/317: Redobramento tipo domos e bacias
+141/317: Redobramento tipo laço (coaxial)
+142/317: Sentido de topo estratigráfico
+143/317: Sentido de transporte tectônico
+144/317: Sentido de vergência de dobra
+145/317: Seta 1
+146/317: Seta 2
+147/317: Seta 3
+148/317: Seta 4
+149/317: Seta 5
+150/317: Seta 6
+151/317: Seta 7
+152/317: Seta 8
+153/317: Acamadamento vulcanoclástico vertical
+154/317: Simbol Anticlinal
+155/317: Simbol Sinclinal
+156/317: Stockwork
+157/317: Superfície de fluxo magmático
+158/317: Superfície de fluxo magmático horizontal
+159/317: Superfície de fluxo magmático vertical
+160/317: Tectonito L
+161/317: Tectonito LS
+162/317: Tectonito S
+163/317: Veio
+164/317: Veio de cisalhamento
+165/317: Veio extensional
+166/317: Veio híbrido dextral
+167/317: Veio híbrido sinistral
+168/317: Veio irregular
+169/317: Veio laminado
+170/317: Xistosidade horizontal
+171/317: Xistosidade vertical
+172/317: Zona de veios escalonados (tension gashes)
+173/317: Zona de veios multidirecionais
+174/317: Zona extensional tipo pull apart
+175/317: Acamadamento vulcanoclástico horizontal
+176/317: Ar-Ar anfibólio
+177/317: Ar-Ar anfibólio/biotita
+178/317: Cristalização (U-Pb SHRIMP - zircão)
+179/317: Idade modelo - TDM/Nd (Sm-Nd rocha total)
+180/317: Metamorfismo (Ar-Ar Step Heating)
+181/317: Concreção ferro-magnesífera
+182/317: Concreção piritosa
+183/317: Concreção silicosa
+184/317: Coprólitos
+185/317: Crinóides
+186/317: Crosta (hardground)
+187/317: Dinoflagelados
+188/317: Dique clástico
+189/317: Equinoides
+190/317: Estratificação cruzada acanalada
+191/317: Estratificação cruzada espinha-de-peixe
+192/317: Estratificação cruzada sigmoidal
+193/317: Estratificação cruzada swaley
+194/317: Estratificação cruzada tabular
+195/317: Estratificação de maré
+196/317: Estromatólitos
+197/317: Estrutura convoluta
+198/317: Estrutura de corte e preenchimento
+199/317: Estrutura em chama
+200/317: Estrutura em pires
+201/317: Folhas
+202/317: Entelhamentos de cristais
+203/317: Foliação horizontal
+204/317: Fratura de cisalhamento R (Riedel)
+205/317: Junta de alívio de carga
+206/317: Lineação B (eixo de dobra)
+207/317: Lineação de estiramento com movimento dextral indicado
+208/317: Lineação de interseção entre acamadamento e clivagem
+209/317: Redobramento tipo bumerangue
+210/317: Laminação/Estratificação plano-paralela (l - laminação, e - estratificação)
+211/317: Azimute de paleocorrente (vetor médio - n = número de medidas)
+212/317: Método U-Pb em zircão (LA-ICP-MS)
+213/317: Pb-Pb zircão / Sm-Nd (TDM)
+214/317: Foraminíferos
+215/317: Foraminíferos bentônicos
+216/317: Foraminíferos Planctônicos
+217/317: Gastrópodes
+218/317: Gradação inversa
+219/317: Greta de contração
+220/317: Insetos
+221/317: Intraclastos
+222/317: Invertebrados
+223/317: Laminação wavy
+224/317: Maciço
+225/317: Madeira fóssil
+226/317: Marca de carga
+227/317: Marca de estria glacial
+228/317: Marca ondulada cavalgante crítica
+229/317: Marca ondulada cavalgante subcrítica
+230/317: Marca ondulada cavalgante supercrítica
+231/317: Marca ondulada de adesão
+232/317: Marca ondulada simétrica
+233/317: Moluscos
+234/317: Nautilóides
+235/317: Xistosidade
+236/317: Brecha de colapso
+237/317: Concreção calcítica
+238/317: Concreção dolomítica
+239/317: Concreção fosfática
+240/317: Cone-in-cone
+241/317: Estilólitos
+242/317: Estratificação cruzada de baixo ângulo
+243/317: Estratificação cruzada hummocky
+244/317: Estratificação cruzada tangencial
+245/317: Estratificação plano-paralela 
+246/317: Palinomorfos
+247/317: Pegadas
+248/317: Pelecípodes (Bivalve)
+249/317: Perfurações
+250/317: Plantas
+251/317: Radiolários
+252/317: Répteis
+253/317: Seixo pingado
+254/317: Stromatoporoids
+255/317: Trilobitas
+256/317: Vulcão de lama
+257/317: Algas
+258/317: Acritarcos
+259/317: Anelídeos
+260/317: Angiospermas
+261/317: Aracnídeo
+262/317: Belemnoids
+263/317: Briozoários
+264/317: Cefalópodes
+265/317: Coníferas
+266/317: Conodontes
+267/317: Corais
+268/317: Crustáceos
+269/317: Diatomáceas
+270/317: Equinodermos
+271/317: Espículas (poríferos)
+272/317: Esponjas
+273/317: Foraminíferos grandes ou fusulinídeos
+274/317: Fungos
+275/317: Graptólitos
+276/317: Macrofósseis
+277/317: Mamíferos
+278/317: Microfósseis
+279/317: Nanofósseis calcário
+280/317: Ostracodes
+281/317: Peixes
+282/317: Pólen e/ou esporos
+283/317: Quitinozoários
+284/317: Raízes
+285/317: Estrutura de bola e almofada
+286/317: Estrutura de escorregamento
+287/317: Estrutura em pilar
+288/317: Filme de argila
+289/317: Geodo
+290/317: Gradação normal
+291/317: Imbricação de seixos
+292/317: Laminação flaser
+293/317: Laminação linsen
+294/317: Lineação de partição (primária de corrente)
+295/317: Marca de sola
+296/317: Marca de chuva
+297/317: Marca ondulada assimétrica
+298/317: Marca ondulada cavalgante 
+299/317: Marca ondulada cavalgante em fase
+300/317: Marca ondulada de interferência
+301/317: Mud couplet (par de argila)
+302/317: Roseta
+303/317: Samambaias
+304/317: Silicoflagelados
+305/317: Traços fósseis
+306/317: Vertebrados
+307/317: Acamadamento ígneo horizontal
+308/317: Bandamento gnáissico vertical
+309/317: Cavalgamento tipo leques imbricados
+310/317: Clivagem
+311/317: Clivagem de fratura horizontal
+312/317: Dobra apertada (30o a 0o)
+313/317: Dobra normal
+314/317: Dobra similar
+315/317: Dobra tipo rollover
+316/317: Tepee
+317/317: Garimpo em atividade
+Importing Color ramps from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 0 symbols of type "Color ramps"
+
+
+Importing Line Patches from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 0 symbols of type "Line Patches"
+
+
+Importing Area Patches from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 0 symbols of type "Area Patches"
+
+
+Importing Text Symbols from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 0 symbols of type "Text Symbols"
+
+
+Importing Labels from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 0 symbols of type "Labels"
+
+
+Importing Maplex Labels from C:\Users\edu_g\Downloads\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022_final.style\Bibl_Geologia_SGB_2022.style
+Found 0 symbols of type "Maplex Labels"
+
+
+Execution completed in 2.91 segundos
+Resultados:
+{'AREA_PATCH_COUNT': 0,
+'COLOR_RAMP_COUNT': 0,
+'FILL_SYMBOL_COUNT': 2,
+'LABEL_SETTINGS_COUNT': 0,
+'LINE_PATCH_COUNT': 0,
+'LINE_SYMBOL_COUNT': 81,
+'MARKER_SYMBOL_COUNT': 317,
+'OUTPUT': 'C:\\Users\\edu_g\\Downloads\\Bibl_Geologia_SGB_2022_final.style\\Bibl_Geologia_SGB_2022_final.style\\Bibl_Geologia_SGB_2022.xml',
+'REPORT': '',
+'TEXT_FORMAT_COUNT': 0,
+'UNREADABLE_AREA_PATCHES': 0,
+'UNREADABLE_COLOR_RAMPS': 0,
+'UNREADABLE_FILL_SYMBOLS': 0,
+'UNREADABLE_LABEL_SETTINGS': 0,
+'UNREADABLE_LINE_PATCHES': 0,
+'UNREADABLE_LINE_SYMBOLS': 0,
+'UNREADABLE_MARKER_SYMBOLS': 0,
+'UNREADABLE_TEXT_FORMATS': 0}
+
+Carregando camada resultante
+Algoritmo 'Convert ESRI style to QGIS style XML' finalizado

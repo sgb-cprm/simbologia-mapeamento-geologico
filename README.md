@@ -5,7 +5,6 @@
 - Carlos Eduardo Miranda Mota <carlos.mota@cprm.gov.br>
 - Francisca de Paula da Silva e Lima Abreu <paula.lima@cprm.gov.br>
 
-
 ## Apresentação
 
 Este produto consiste em disponibilizar as paletas de cores correspondente a biblioteca de Geologia, Estratigrafia e Paleontologia da SGB/CPRM, em versões compatíveis com os softwares ArcGIS 10.x e QGIS 3.x. Originalmente esta biblioteca foi construída sob o formato ESRI Style (.style), com posterior conversão paa QGIS Style (.xml). 
@@ -18,6 +17,31 @@ O processo de conversão para QGIS Style foi realizado através do plugin SLYR v
 
 Caso seja encontrado algum erro ou inconsistência na biblioteca, pedimos a gentileza que nos reporte o problema a partir dos canais oficiais da SGB/CPRM ou via contato direto com os autores.
 
+## Organização do Conteúdo
+
+### Diretório `fonts`
+
+Este diretório contém os itens necessários para a composição de arquivos de fonte a partir de tabelas de caracteres. Os arquivos .sfd correspondem a projetos de fontes OTF, que são abertos a partir do software [FontForge](https://fontforge.org/). 
+
+Além dos arquivos de projeto, existe um diretório `glyphs` (glifos), que contém as figuras em formato W3C SVG 1.1, editáveis em softwares, tais como o [LibreOffice Draw](https://pt-br.libreoffice.org/descubra/draw/) e o [Inkscape](https://inkscape.org/).
+
+O diretório `export` contém as versões de fontes geradas pelo FontForge. Estas fontes podem ser instaladas diretamente no sistema operacional
+
+### Diretório `esri-style`
+
+Este diretório contém o arquivo de estilos para o ESRI ArcGIS Desktop (.style). Originalmente, e por questões de legado, as tabelas de cores e símbolos são confeccionadas nesta plataforma.
+
+### Diretório `qgis-xml`
+
+Este diretório contém o arquivo de estilos para o QGIS (.xml). Como este arquivo, por enquanto, é obtido a partir de conversão dos originais em .style, também é disponibilizado o log de execução da conversão da biblioteca para o formato do QGIS.
+
+## Instalação da Biblioteca de Estilos
+
+Veja no arquivo README.md dos diretórios `esri-style` e `qgis-xml` as páginas de documentação para instalação das bibliotecas.
+
+Se as bibliotecas dependerem de arquivos de fontes para renderizar os símbolos corretamente, é necessário fazer a instalação dos arquivos de fonte .OTF antes de iniciar o software de GIS/SIG. Os arquivos de fontes estão disponíveis no diretório `fonts >> export`.
+
+Para instalação de fontes no Windows, [veja este link](https://support.microsoft.com/pt-br/office/adicionar-uma-fonte-b7c5f17c-4426-4b53-967f-455339c564c1).
 
 ## Produção Científica
 

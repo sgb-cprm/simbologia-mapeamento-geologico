@@ -1,6 +1,67 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1020 1000">
-   <path fill="currentColor"
-d="M0 461l392 -245l32 53l-210 131h773l13 58l-290 135l-26 -56l163 -76h-847z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.8318768mm"
+   height="2.9271362mm"
+   version="1.1"
+   viewBox="0 0 7.831877 2.9271362"
+   id="svg842"
+   sodipodi:docname="Mud_couplet.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="namedview844"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="36.736378"
+     inkscape:cx="14.059633"
+     inkscape:cy="5.5258578"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg842" />
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-57.675501,-102.92474)"
+     id="g840">
+    <polyline
+       class="fil2 str1"
+       transform="matrix(0.01,0,0,0.01,-27.926,70.823)"
+       points="8865 3225 8621 3378 9336 3378 9100 3487"
+       clip-rule="evenodd"
+       fill="none"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="50"
+       id="polyline838"
+       style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
 </svg>

@@ -1,11 +1,66 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-11 0 1021 1000">
-   <path fill="currentColor"
-d="M95 441h31c0 -1.33301 1.08887 -11.7109 3.2666 -31.1338c2.17773 -19.4219 7.42188 -39.7109 15.7334 -60.8662c10 -21.333 24 -39 42 -53c36.8496 -29.4795 78.0166 -35.9795 123.5 -19.5c23 8.33301 41.833 20.833 56.5 37.5
-c28.2119 36.2725 44.5449 75.9395 48.999 119c1.33301 0.666992 3.66602 1 6.99902 1l197 3h18c2 -17.333 5.66699 -35.166 11 -53.499s15.833 -37.5 31.5 -57.5s32.167 -34.667 49.5 -44c16 -7.33301 36.667 -11.333 62 -12c24.667 2.66699 45.334 9.33398 62.001 20.001
-c44.9287 28.0811 69.5957 67.0811 74.001 117c1.33301 6.66699 2.66602 13.667 3.99902 21h68v72h-139v-36c0 -14.667 -1.33301 -29.667 -4 -45c-0.666992 -15.333 -4 -28.666 -10 -39.999c-15.6514 -22.7646 -36.3184 -35.4316 -62.001 -38c-16.4912 0 -33.1582 10 -50 30
-c-14.9873 19.9824 -24.1543 46.1494 -27.501 78.5c-1 9.66699 -1.83301 14.834 -2.5 15.501c-7.33301 22 -16.333 35 -27 39c-10.667 2.66699 -30 4 -58 4h-192c-23.1113 0 -40.7783 -0.833008 -53 -2.5c-7.33301 -1 -14.333 -4.83301 -21 -11.5
-c-3.33301 -4.66699 -6 -10.667 -8 -18c-1.33301 -34.667 -4.83301 -59.667 -10.5 -75s-13.5 -29.666 -23.5 -42.999c-4.66699 -5.33301 -11.834 -9.83301 -21.501 -13.5s-18.834 -5.5 -27.501 -5.5c-22.5859 1.3291 -40.5859 14.6621 -54 40c-3.33301 10 -7 27.667 -11 53v2
-c-2 21.333 -3 36 -3 44s-3.33301 15.333 -10 22c-10.5713 7.04785 -21.5713 11.0479 -33 12h-22c-12 0 -32.833 -0.166992 -62.5 -0.5s-52.167 -0.5 -67.5 -0.5v-71h33.5z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.0100002mm"
+   height="1.568952mm"
+   version="1.1"
+   viewBox="0 0 7.01 1.568952"
+   id="svg842"
+   sodipodi:docname="Marca_ondul_adesao.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="namedview844"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="42.574892"
+     inkscape:cx="12.977132"
+     inkscape:cy="2.9360028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg842" />
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-62.115,-101.95791)"
+     id="g840">
+    <path
+       class="fil2 str1"
+       d="m 62.115,103.34 c 0.37,0 0.74,0.01 0.93,0.01 0.19,0 0.19,0 0.19,-0.05 0,-0.05 0.01,-0.16 0.02,-0.3 0.02,-0.14 0.05,-0.31 0.1,-0.44 0.06,-0.13 0.13,-0.21 0.22,-0.28 0.09,-0.07 0.19,-0.13 0.3,-0.14 0.12,-0.02 0.26,0.01 0.37,0.05 0.11,0.04 0.18,0.09 0.25,0.17 0.07,0.09 0.15,0.22 0.2,0.35 0.05,0.13 0.08,0.26 0.09,0.36 0.01,0.1 0,0.17 0,0.21 0,0.04 0,0.04 0.33,0.04 h 1.35 c 0.34,0 0.34,0 0.35,-0.09 0.01,-0.09 0.04,-0.28 0.08,-0.43 0.04,-0.15 0.1,-0.25 0.18,-0.35 0.08,-0.1 0.17,-0.19 0.27,-0.24 0.1,-0.05 0.2,-0.06 0.3,-0.06 0.1,0.01 0.21,0.03 0.32,0.1 0.11,0.07 0.22,0.17 0.3,0.29 0.07,0.12 0.1,0.24 0.11,0.36 0.02,0.12 0.03,0.23 0.03,0.29 v 0.07 h 0.12 0.6"
+       clip-rule="evenodd"
+       fill="none"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="path838"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
 </svg>

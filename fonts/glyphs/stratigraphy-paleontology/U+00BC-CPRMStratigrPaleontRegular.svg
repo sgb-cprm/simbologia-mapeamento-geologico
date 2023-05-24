@@ -1,12 +1,76 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-11 0 1021 1000">
-   <path fill="currentColor"
-d="M1000 363l-3 70c-20.667 -1.33301 -75.667 -1.83301 -165 -1.5s-142.333 0.166016 -159 -0.500977c-52.5811 -1.11816 -90.9141 -8.45117 -114.999 -21.999c-17.333 -11.5557 -26 -24.8887 -26 -40c0 -8.66699 1.6377 -17.2666 4.91309 -25.7988
-c3.27539 -8.53125 14.1377 -24.2656 32.5869 -47.2021c12.333 -15.333 21.5 -27.666 27.5 -36.999c-58.3701 9.72852 -101.037 18.3955 -128 26c-51.2939 16.1982 -99.9609 38.3652 -146.001 66.501c-18 11 -39.5 22.667 -64.5 35s-60.5 25.5 -106.5 39.5h-1
-c-40.667 10 -87.667 19.333 -141 28l-10 -70c99.708 -13.2939 175.875 -33.2939 228.501 -60c22.333 -11.333 42.666 -22.333 60.999 -33s32.166 -18.667 41.499 -24c62.1006 -33.3506 134.101 -56.8506 216 -70.5c38 -6.33301 64.833 -9.5 80.5 -9.5
-s29.167 6.33301 40.5 19c14.748 19.6641 12.415 46.8311 -7 81.5c-4.66699 8.33301 -21.334 30.833 -50.001 67.5c31.585 6.58008 90.085 9.24707 175.5 8c45.667 -0.666992 87 -1 124 -1c37.0342 0 66.8682 0.333008 89.502 0.999023zM381.998 486.001
-c1.33301 -1.33301 11.666 -13 30.999 -35c-38.667 8 -68.334 16.333 -89.001 25s-49 23.667 -85 45s-68.167 34.666 -96.5 39.999s-75.166 9 -140.499 11l-2 -69c56.667 -2 96.667 -4.66699 120 -8c24 -5.33301 49.333 -15 76 -29c46 -26.667 81.667 -45 107 -55
-s56.666 -19.167 93.999 -27.5s62.166 -12.5 74.499 -12.5s23.5 4.33301 33.5 13c10.8232 13.5293 13.1562 29.5293 6.99902 48c-10.3027 20.6064 -21.6357 37.6064 -34 51c-8 8.66699 -15.667 17.167 -23 25.5s-13 14.5 -17 18.5c24 6.66699 61.625 10.749 112.875 12.2461
-s188.292 -7.58496 411.125 -27.2461l7 70c-45.333 3.33301 -115.666 8.83301 -210.999 16.5s-170.166 11 -224.499 10s-96.666 -7.10449 -126.999 -18.3125s-45.5 -29.2207 -45.5 -54.0371c0 -15.2334 7 -31.9502 21.001 -50.1494z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.1830678mm"
+   height="2.8808866mm"
+   version="1.1"
+   viewBox="0 0 7.1830676 2.8808866"
+   id="svg850"
+   sodipodi:docname="Estrutura_escorregamento.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     id="namedview852"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="41.516546"
+     inkscape:cx="13.307947"
+     inkscape:cy="5.4676996"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg850" />
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-63.579534,-108.08207)"
+     id="g848">
+    <g
+       transform="matrix(0.01,0,0,0.01,-21.695,-10.584)"
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="50"
+       id="g846">
+      <path
+         class="fil2 str1"
+         d="m 8531,12026 c 34,-5 67,-11 99,-19 32,-9 62,-21 85,-33 23,-12 40,-23 62,-35 22,-12 50,-24 80,-33 30,-9 61,-14 85,-18 24,-4 41,-6 46,0 5,7 -1,22 -12,39 -11,17 -27,34 -35,46 -8,12 -9,18 0,24 10,6 30,11 71,13 41,2 103,0 145,0 42,0 65,0 88,1"
+         id="path842"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         class="fil2 str1"
+         d="m 8528,12111 c 32,-1 64,-2 90,-6 25,-5 43,-13 63,-24 19,-11 40,-25 68,-36 27,-11 62,-19 86,-24 24,-5 37,-7 38,0 0,7 -12,25 -26,40 -13,15 -28,29 -33,40 -5,11 -2,19 15,25 17,6 47,10 88,11 41,1 93,-2 146,-6 52,-4 105,-8 158,-13"
+         id="path844"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
 </svg>

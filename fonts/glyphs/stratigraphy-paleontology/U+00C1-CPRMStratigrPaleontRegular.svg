@@ -1,6 +1,67 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1009 1000">
-   <path fill="currentColor"
-d="M179 94l323 501l290 -501h-613zM960 -4l-453 804l-507 -805z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.5165577mm"
+   height="3.684268mm"
+   version="1.1"
+   viewBox="0 0 4.5165577 3.6842679"
+   id="svg842"
+   sodipodi:docname="Gradacao_inversa.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="namedview844"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="55.419702"
+     inkscape:cx="8.5078047"
+     inkscape:cy="7.1635174"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg842" />
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-59.620129,-102.727)"
+     id="g840">
+    <polygon
+       class="fil2 str1"
+       transform="matrix(0.01,0,0,0.01,35.95,-83.598)"
+       points="2605,18977 2390,18645 2797,18645 "
+       clip-rule="evenodd"
+       fill="none"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="50"
+       id="polygon838"
+       style="stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
 </svg>

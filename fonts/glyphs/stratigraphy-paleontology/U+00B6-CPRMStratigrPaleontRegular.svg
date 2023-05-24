@@ -1,8 +1,65 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-11 0 1021 1000">
-   <path fill="currentColor"
-d="M151 213c6.00195 62.0186 12.333 104.019 18.9951 126.001c6.66699 22 22.334 47 47.001 75s50 48.333 76 61s60.333 21.667 103 27h89c-22.667 -16 -43.667 -34.667 -63 -56c-28 -32.667 -46.167 -62.834 -54.5 -90.501s-15.166 -73.5 -20.499 -137.5l51 -5
-c6 62 12.5 104 19.5 126s22.833 46.833 47.5 74.5s49.5 48 74.5 61s57.5 22.167 97.5 27.5h135c-23.333 -16 -46.833 -37.5 -70.5 -64.5s-39.667 -54.167 -48 -81.5s-15.166 -73.333 -20.499 -138l53 -5c6 62 12.167 104 18.5 126s22 47 47 75s50.333 48.333 76 61
-s60.834 21.667 105.501 27h67v53h-1000v-53h238c-23.333 -16 -46.833 -37.5 -70.5 -64.5s-39.667 -54.333 -48 -82s-15.166 -73.5 -20.499 -137.5z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xml:space="preserve"
+   width="9.5415344mm"
+   height="3.1920524mm"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 0.54297293 0.18164807"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="Estratificação cruzada tangencial.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview37"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="20"
+   inkscape:cx="17.975"
+   inkscape:cy="6"
+   inkscape:window-width="1424"
+   inkscape:window-height="1041"
+   inkscape:window-x="182"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="SIMBOLOS" />
+ <defs
+   id="defs26">
+  <style
+   type="text/css"
+   id="style24">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.0199172}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="SIMBOLOS"
+   inkscape:label="SIMBOLOS"
+   inkscape:groupmode="layer">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_262705616">
+   <path
+   id="_262705520"
+   style="color:#000000;clip-rule:nonzero;fill:#000000;fill-rule:nonzero;stroke-width:66.4166;-inkscape-stroke:none;shape-rendering:auto"
+   d="M 5.1894531,0 3.8925781,0.12890625 C 4.0259958,1.7624222 4.1441232,3.4273024 4.5410156,4.7988281 4.9379612,6.1701326 5.5657799,7.1642699 6.4863281,8.171875 7.2958511,9.0576009 8.3321264,9.9708074 9.5,10.636719 H 0 v 1.427734 H 14.138672 22.830078 33.46875 36.0625 V 10.636719 H 33.597656 C 32.239775,10.436805 30.980953,10.28767 29.835938,9.7285156 28.690922,9.16905 27.568645,8.189297 26.722656,7.2636719 25.876657,6.3376662 25.371436,5.5718865 25.035156,4.4101562 24.698823,3.2479047 24.520135,1.6335 24.386719,0 l -1.296875,0.12890625 c 0.133431,1.63351595 0.251532,3.29839615 0.648437,4.66992185 0.396972,1.3713045 1.026718,2.3654418 1.947266,3.3730469 0.809524,0.8857259 1.835464,1.7989783 3.009765,2.464844 H 22.960938 C 21.706261,10.436805 20.556506,10.287405 19.458984,9.7285156 18.36113,9.1693163 17.191691,8.189297 16.345703,7.2636719 15.499704,6.3376662 14.994483,5.5718865 14.658203,4.4101562 14.321869,3.2479047 14.272088,1.6335 14.138672,0 l -1.425781,0.12890625 c 0.133431,1.63351595 0.380451,3.29839615 0.777343,4.66992185 0.396972,1.3713045 1.026718,2.3654418 1.947266,3.3730469 0.809524,0.8857259 1.878552,1.7988472 3.025391,2.464844 h -4.19336 C 12.936258,10.436805 11.770264,10.287604 10.636719,9.7285156 9.5028935,9.1691463 8.3694258,8.189297 7.5234375,7.2636719 6.6774386,6.3376662 6.0433119,5.5718865 5.7070312,4.4101562 5.3706982,3.2479047 5.3228695,1.6335 5.1894531,0 Z"
+   transform="scale(0.01505647)" />
+   
+   
+   
+  </g>
+ </g>
 </svg>

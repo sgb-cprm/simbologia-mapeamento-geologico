@@ -1,8 +1,62 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-11 0 1021 1000">
-   <path fill="currentColor"
-d="M1000 237l-14.001 40v2c-1.33301 2 -4.33301 11.167 -9 27.5c-25.2383 88.333 -87.2383 160.833 -186 217.5l-1 1c-86.9795 45.5605 -169.979 72.2275 -249 80l-1 1h-1c-40.667 2 -78 0.666992 -112 -4c-107.443 -10.4463 -192.443 -39.7793 -255 -88
-c-50.1719 -35.8369 -93.5049 -91.8369 -130 -168c-10 -20.667 -24 -55 -42 -103l79 -30c12.667 32 23.334 58.333 32.001 79h782c9.33301 -28 14 -42.833 14 -44.5s4.33301 -14.167 13 -37.5zM435.999 518h2c66.1904 8.8252 129.523 3.1582 189.999 -17.001
-c93.7197 -30.2783 161.387 -67.6113 203.001 -111.999v-1h1c1.33301 -1.33301 3 -3.33301 5 -6s3.33301 -4.33398 4 -5.00098h-684c0.666992 0.666992 1 1.33398 1 2.00098c22 30 43.333 52.333 64 67v1h1c50.6191 38.6299 121.619 62.2969 213 71z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xml:space="preserve"
+   width="5.7504mm"
+   height="2.2532mm"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 0.867347 0.339856"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="Estrutura em pires_2.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview33"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="20"
+   inkscape:cx="10.875"
+   inkscape:cy="4.25"
+   inkscape:window-width="960"
+   inkscape:window-height="1057"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="SIMBOLOS" />
+ <defs
+   id="defs24">
+  <style
+   type="text/css"
+   id="style22">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.0527914}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="SIMBOLOS"
+   inkscape:label="SIMBOLOS">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_262087832">
+   <path
+   id="_262088072"
+   style="color:#000000;clip-rule:nonzero;fill:#000000;fill-rule:nonzero;stroke-width:25.0578;-inkscape-stroke:none;shape-rendering:auto"
+   d="M 20.505859 0 C 20.405403 0.25057649 20.288697 0.53401927 20.164062 0.97851562 C 20.070149 1.3134576 19.987739 1.7054839 19.841797 2.1035156 C 13.896232 2.1006934 7.9631943 2.1063556 2.0175781 2.1035156 C 1.7649501 1.5256059 1.491441 0.8143016 1.2226562 0.09765625 L 0 0.58789062 C 0.30005382 1.3879072 0.62285079 2.1630096 0.9296875 2.8378906 C 1.2363861 3.5124685 1.5270709 4.0605721 1.9570312 4.6484375 C 2.3866024 5.235917 2.9701658 5.9367996 3.71875 6.5097656 C 4.4673335 7.0827292 5.3371855 7.519715 6.3125 7.8300781 C 7.2873026 8.1400052 8.3334217 8.3140341 9.25 8.4179688 C 10.166456 8.5215075 10.974645 8.5287397 11.746094 8.4667969 C 12.517282 8.4044782 13.302779 8.2811473 14.242188 7.9765625 C 15.181328 7.6720604 16.307312 7.2090125 17.226562 6.7050781 C 18.145561 6.2012916 18.838164 5.6500123 19.429688 5.0410156 C 20.020916 4.4315028 20.509828 3.7725344 20.849609 3.0839844 C 21.189503 2.3947806 21.326766 1.7102159 21.435547 1.3222656 C 21.544473 0.93375736 21.630619 0.73930941 21.730469 0.49023438 L 20.505859 0 z M 2.7265625 3.4257812 C 8.1744223 3.4277596 13.612734 3.4238784 19.060547 3.4257812 C 18.874501 3.6572052 18.6676 3.8882059 18.451172 4.1113281 C 17.942101 4.635434 17.406087 5.0848658 16.591797 5.53125 C 15.777783 5.9774914 14.661449 6.4260197 13.800781 6.7050781 C 12.940377 6.9840513 12.327077 7.0896898 11.648438 7.1445312 C 10.970061 7.1990069 10.246579 7.1917245 9.3964844 7.0957031 C 8.5465322 6.9993309 7.5633437 6.8314704 6.7050781 6.5585938 C 5.8465662 6.2854014 5.1034149 5.8919996 4.5019531 5.4316406 C 3.9004914 4.9712842 3.4219631 4.3961797 3.0351562 3.8671875 C 2.9233253 3.7142863 2.8213382 3.5685482 2.7265625 3.4257812 z "
+   transform="scale(0.03990777)" />
+   
+  </g>
+ </g>
 </svg>

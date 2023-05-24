@@ -1,9 +1,80 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 833 1000">
-   <path fill="currentColor"
-d="M245 565v-331h101l60 227l59 -227h100v331h-62v-260l-65 260h-65l-66 -260v260h-62zM812 398c0 110.667 -39.667 205.334 -119 284.001s-175 118 -287 118c-24.667 -0.666992 -50 -3.33398 -76 -8.00098c-93.333 -17.333 -171.666 -62.666 -234.999 -135.999
-s-95 -159.333 -95 -258c0 -24 2.33301 -49 7 -75c18 -92 63.333 -168.333 136 -229c75.333 -64 163 -96 263 -96c126.667 2.66699 230.334 50.334 311.001 143.001c63.333 72.667 94.999 158.333 94.998 256.998zM635.002 605.503c55.333 -58.333 83 -129.166 83 -212.499
-s-33.333 -156 -100 -218c-58.667 -55.333 -129.334 -83 -212.001 -83c-8.66699 0 -18 0.666992 -28 2c-80 7.33301 -147.333 40 -202 98s-82 126.667 -82 206c0 89.333 33.333 164.666 100 225.999c58.667 54 129.334 81 212.001 81
-c8.66699 0.666992 18 0.333984 28 -0.999023c78.667 -7.33301 145.667 -40.167 201 -98.501z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.0700002mm"
+   height="4.0100002mm"
+   version="1.1"
+   viewBox="0 0 4.07 4.01"
+   id="svg12"
+   sodipodi:docname="Concrecao_ferro_manganesifera.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1424"
+     inkscape:window-height="1041"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="40"
+     inkscape:cx="7.7875"
+     inkscape:cy="7.525"
+     inkscape:window-x="208"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-63.544,-109.167)"
+     id="g10">
+    <g
+       transform="matrix(0.01,0,0,0.01,-84.451,54.432)"
+       clip-rule="evenodd"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       text-rendering="geometricPrecision"
+       id="g8">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 15194,5674 a 191,188 0 0 1 -191,188 191,188 0 0 1 -191,-188 191,188 0 0 1 191,-188 191,188 0 0 1 191,188 z"
+         id="ellipse4" />
+      <g
+         aria-label="M"
+         style="font-weight:bold;font-size:246.94px;font-family:Arial;fill:#000000"
+         id="text6" />
+    </g>
+  </g>
+  <path
+     class="fil1"
+     d="M 1.1547306,2.8735189 V 1.1058164 h 0.3522995 l 0.4182011,1.251601 c 0.038699,0.1164985 0.067099,0.2036968 0.0844,0.2617995 0.0201,-0.064299 0.051394,-0.1589104 0.094198,-0.2836001 l 0.423101,-1.2298025 h 0.314901 V 2.8735169 H 2.6162327 V 1.3939158 L 2.1026317,2.8735169 H 1.8915324 L 1.3803307,1.3688155 v 1.5047014 z"
+     id="path30"
+     style="clip-rule:evenodd;fill:#000000;fill-rule:nonzero;stroke-width:20.6484;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 </svg>

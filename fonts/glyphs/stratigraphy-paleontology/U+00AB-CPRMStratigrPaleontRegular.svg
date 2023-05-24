@@ -1,6 +1,86 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1020 1000">
-   <path fill="currentColor"
-d="M0 586l261 -542l226 539l241 -556l272 572l-76 38l-193 -405l-245 567l-230 -549l-180 373zM103 613l154 -279l117 281l-78 32l-50 -118l-69 125zM586 613l154 -279l116 281l-78 32l-49 -118l-69 125zM488 273l50 -119l78 32l-129 283l-142 -280l74 -41z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.7657061mm"
+   height="4.1797719mm"
+   version="1.1"
+   viewBox="0 0 5.765706 4.1797721"
+   id="svg858"
+   sodipodi:docname="Cone_in_cone.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs862" />
+  <sodipodi:namedview
+     id="namedview860"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="20"
+     inkscape:cx="13.325"
+     inkscape:cy="7.9"
+     inkscape:window-width="1424"
+     inkscape:window-height="1041"
+     inkscape:window-x="26"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg858" />
+  <metadata
+     id="metadata844">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-56.871325,-108.90249)"
+     id="g856">
+    <g
+       transform="matrix(0.01,0,0,0.01,-89.701,25.396)"
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="50"
+       id="g854">
+      <polyline
+         class="fil2 str1"
+         points="14673 8673 14803 8403 14938 8724 15081 8393 15218 8681"
+         id="polyline846"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+      <polyline
+         class="fil2 str1"
+         points="14733 8690 14799 8571 14848 8689"
+         id="polyline848"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+      <polyline
+         class="fil2 str1"
+         points="15018 8690 15084 8571 15133 8689"
+         id="polyline850"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+      <polyline
+         class="fil2 str1"
+         points="14876 8416 14942 8535 14991 8417"
+         id="polyline852"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
 </svg>

@@ -1,12 +1,76 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1020 1000">
-   <path fill="currentColor"
-d="M1000 222l-12 60c-28.667 -6 -50 -8.66699 -64 -8c-17.333 0 -40 7 -68 21c-26 12.667 -59.667 31 -101 55c-50 30 -92.667 48.333 -128 55c-10.667 2 -22 3 -34 3c-36.667 -0.666992 -73.667 -10.667 -111 -30c-11.333 -6 -28 -16.333 -50 -31
-c-28.667 -18 -49.667 -29.333 -63 -34c-5.33301 -2 -11.666 -3 -18.999 -3c-18 0 -47.667 9 -89 27c-34 14.667 -112.667 51 -236 109l-25 -55c126.667 -59.333 205.334 -95.666 236.001 -108.999c49.333 -22 87.333 -33.333 114 -34c12 0 24.667 2 38 6
-c17.333 6 43 20 77 42c20 12.667 35.333 22 46 28c27.333 14.667 54.666 22.334 81.999 23.001c7.33301 0 15 -0.666992 23 -2c28 -5.33301 64.333 -21.333 109 -48c38 -22.667 73 -41.334 105 -56.001c34.667 -17.333 65 -26.666 91 -27.999
-c18 -1.33301 44.333 1.66602 78.999 8.99805zM1000 366.002l-12 59c-28.667 -6 -50 -8.66699 -64 -8c-17.333 0.666992 -40 8 -68 22c-26 12 -59.667 30 -101 54c-50 30 -92.667 48.333 -128 55c-10.667 2 -22 3 -34 3c-36.667 0 -73.667 -9.66699 -111 -29
-c-11.333 -6 -28 -16.333 -50 -31c-28.667 -18.667 -49.667 -30.334 -63 -35.001c-5.33301 -2 -11.666 -3.33301 -18.999 -4c-18 1.33301 -47.667 10.666 -89 27.999c-34 14.667 -112.667 51 -236 109l-25 -55c126.667 -59.333 205.334 -96 236.001 -110
-c49.333 -20.667 87.333 -31.334 114 -32.001c12 0 24.667 2 38 6c17.333 6 43 20 77 42c20 12.667 35.333 22 46 28c27.333 14.667 54.666 22.334 81.999 23.001c7.33301 0 15 -0.666992 23 -2c28 -5.33301 64.333 -21.333 109 -48c38 -23.333 73 -42.333 105 -57
-c34.667 -16.667 65 -25.667 91 -27c18 -1.33301 44.333 1.66797 78.999 9.00195z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.1790466mm"
+   height="2.9548392mm"
+   version="1.1"
+   viewBox="0 0 8.1790471 2.9548391"
+   id="svg850"
+   sodipodi:docname="Marca_ondul_cavalgante_supercritica.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     id="namedview852"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="20"
+     inkscape:cx="15.975"
+     inkscape:cy="5.55"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg850" />
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-62.810274,-100.7594)"
+     id="g848">
+    <g
+       transform="matrix(0.01,0,0,0.01,41.635,31.876)"
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="50"
+       id="g846">
+      <path
+         class="fil2 str1"
+         d="m 2125,7050 c 72,-34 145,-69 194,-90 50,-22 77,-30 107,-21 30,10 63,38 97,56 34,18 69,25 103,19 34,-6 67,-24 97,-42 31,-18 60,-34 85,-46 25,-12 45,-19 65,-20 20,-1 39,3 59,7"
+         id="path842"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         class="fil2 str1"
+         d="m 2125,7168 c 72,-34 145,-69 194,-90 50,-22 77,-30 107,-21 30,10 63,38 97,56 34,18 69,25 103,19 34,-6 67,-24 97,-42 31,-18 60,-34 85,-46 25,-12 45,-19 65,-20 20,-1 39,3 59,7"
+         id="path844"
+         style="stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
 </svg>

@@ -1,9 +1,66 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1020 1000">
-   <path fill="currentColor"
-d="M0 538c156.667 0 245.667 -1.33301 267 -4c9.33301 -14 20.5 -31 33.5 -51s25.667 -39.167 38 -57.5s28.5 -37 48.5 -56s49.667 -40.5 89 -64.5c34.667 -22.667 72.667 -43.334 114 -62.001c41.333 -20 78.5996 -35.667 111.8 -47s53.6006 -17 61.2012 -17
-c6.66699 0 13.334 2 20.001 6c18.1953 12.1299 23.1953 29.4629 15 51.999c-13.3057 26.6104 -48.8057 75.2773 -106.5 146c-51.667 63.333 -81.334 100.666 -89.001 111.999s-16.834 26.666 -27.501 45.999c33.333 3.33301 175 5 425 5v70
-c-200 0 -323.5 -0.833008 -370.5 -2.5s-77.5 -4.16699 -91.5 -7.5c-27.333 -6.83301 -41 -21.833 -41 -45c0 -21.5557 16.333 -56.0557 49 -103.5c14 -20.333 35 -47.666 63 -81.999s55 -68.166 81 -101.499c-26 10 -49.333 20.333 -70 31
-c-38.667 17.333 -75 36.833 -109 58.5s-59.875 40.4824 -77.626 56.4463s-43.209 49.6484 -76.374 101.055c-13.333 20.667 -23.666 36.5 -30.999 47.5s-16.333 19.5 -27 25.5c-7.33301 3.33301 -17.833 6.16602 -31.5 8.49902s-102.834 3.5 -267.501 3.5v-67.998z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.29mm"
+   height="3.0302625mm"
+   version="1.1"
+   viewBox="0 0 7.29 3.0302625"
+   id="svg842"
+   sodipodi:docname="Estrutura_chama.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="namedview844"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="20"
+     inkscape:cx="17.275"
+     inkscape:cy="5.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg842" />
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-64.174,-106.24473)"
+     id="g840">
+    <path
+       class="fil2 str1"
+       d="m 64.174,109.03 c 0.68,0 1.36,0 1.71,-0.01 0.35,-0.01 0.38,-0.03 0.48,-0.18 0.1,-0.15 0.28,-0.43 0.42,-0.64 0.14,-0.21 0.25,-0.34 0.4,-0.48 0.15,-0.14 0.36,-0.28001 0.59,-0.42001 0.23,-0.15 0.5,-0.3 0.81,-0.44 0.31,-0.15 0.67,-0.29 0.91,-0.37 0.24,-0.09 0.35,-0.12 0.22,0.09 -0.13,0.22 -0.5,0.68 -0.76,1 -0.26,0.32 -0.41,0.49 -0.54,0.67 -0.13,0.19 -0.25,0.4 -0.31,0.53 -0.06,0.13 -0.07,0.17 -0.05,0.21 0.02,0.04 0.08,0.07 0.65,0.09 0.57,0.02 1.67,0.02 2.76,0.02"
+       clip-rule="evenodd"
+       fill="none"
+       image-rendering="optimizeQuality"
+       shape-rendering="geometricPrecision"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="path838"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
 </svg>

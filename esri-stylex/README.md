@@ -1,0 +1,1 @@
+# Biblioteca de estilos em formato .stylex para o ESRI ArcGIS Pro

@@ -1,0 +1,50 @@
+name: release-fonts
+
+on:
+  # Por enquanto, apenas disparo manual (aba Actions >> release-fonts >> Run workflow).
+  workflow_dispatch:
+  # Gatilhos automáticos desativados; descomentar para reativar:
+  # push:
+  #   branches: [master]
+  #   tags: ["v*"]
+  #   paths: ["fonts/*.sfd", "scripts/exportar_fontes.py", ".github/workflows/release-fonts.yml"]
+  # pull_request:
+  #   paths: ["fonts/*.sfd", "scripts/exportar_fontes.py", ".github/workflows/release-fonts.yml"]
+
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar FontForge
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fontforge python3-fontforge
+
+      - name: Exportar fontes OTF
+        run: fontforge -lang=py -script scripts/exportar_fontes.py dist
+
+      - name: Publicar artefatos
+        uses: actions/upload-artifact@v4
+        with:
+          name: fontes-otf
+          path: dist/*.otf
+          if-no-files-found: error
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: exportar
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: fontes-otf
+          path: dist
+
+      - name: Anexar fontes à release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*.otf

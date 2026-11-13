@@ -7,7 +7,7 @@ Uso (FontForge instalado, ex.: `brew install fontforge`):
 
 O diretório de saída padrão é `dist/`. O nome do arquivo gerado é o `FontName`
 do projeto (ex.: `CPRMGeologyRegular.otf`). Retorna erro se algum projeto não
-puder ser aberto ou se o OTF gerado não tiver os mesmos glifos do .sfd.
+puder ser aberto ou se algum glifo do OTF gerado diferir do .sfd.
 """
 import os
 import sys
@@ -26,11 +26,26 @@ def exportar(sfd, saida):
     destino = os.path.join(saida, fonte.fontname + ".otf")
     fonte.generate(destino)
 
+    # Reprodutibilidade: compara os glifos (não os bytes do arquivo, que variam
+    # com a versão do FontForge). Por glifo: largura, caixa delimitadora (tolerância
+    # de 1 unidade, por arredondamento) e número de contornos.
     gerada = fontforge.open(destino)
-    esperados = {g.unicode: g.width for g in fonte.glyphs() if g.unicode >= 0}
-    obtidos = {g.unicode: g.width for g in gerada.glyphs() if g.unicode >= 0}
-    if esperados != obtidos:
-        raise SystemExit(f"ERRO: {destino} difere do projeto {sfd} (glifos/larguras)")
+
+    def resumo(f):
+        return {
+            g.unicode: (g.width, tuple(round(v) for v in g.boundingBox()), len(g.foreground))
+            for g in f.glyphs() if g.unicode >= 0
+        }
+
+    esperados, obtidos = resumo(fonte), resumo(gerada)
+    erros = [f"U+{u:04X}: sem glifo no OTF" for u in esperados.keys() - obtidos.keys()]
+    erros += [f"U+{u:04X}: glifo extra no OTF" for u in obtidos.keys() - esperados.keys()]
+    for u in sorted(esperados.keys() & obtidos.keys()):
+        (w1, b1, c1), (w2, b2, c2) = esperados[u], obtidos[u]
+        if w1 != w2 or c1 != c2 or any(abs(x - y) > 1 for x, y in zip(b1, b2)):
+            erros.append(f"U+{u:04X}: projeto {w1}/{b1}/{c1} contornos, OTF {w2}/{b2}/{c2}")
+    if erros:
+        raise SystemExit(f"ERRO: {destino} difere do projeto {sfd}:\n  " + "\n  ".join(erros))
     print(f"OK {destino}: {len(esperados)} glifos")
 
 
